@@ -1,0 +1,33 @@
+Day 2 Computer Basics Assignment
+
+1.What is Computer ?
+
+Ans : An electronic device for storing and processing data, typically in binary form, according to instructions given to it in a variable program
+
+2.What is RAM ?
+
+Ans :Random Access Memory, is the physical hardware inside a computer that temporarily stores data, serving as the computer's main memory or primary memory .
+
+3.Where is data Stored in a computer ?
+Ans : Harddisk -If we want to store data persistently
+      RAM - Data stored is temporary and will get erased once computer is powered off
+
+4.What is the input device used to type text and number on a document in the computer system 
+
+Ans : Keyboard
+
+5.What are the output devices ?
+
+Ans :Monitor,Speaker ,printer
+
+6.which is the input device that allows a user to move the cursor or the pointer on the screen ?
+
+Ans :Mouse
+
+7.Which language is directly understood by the computer without a translation program ?
+
+Ans :Binary 
+
+8.What are input devices :
+Ans :An input device is use to provide data and control signals to an computer .for eg :mouse ,keyboard,scanners 
+
