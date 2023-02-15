@@ -1,0 +1,34 @@
+1.What is Git ?
+
+Ans : Git is an Open source  Distributed version control system .It allows developers/Testers to share their codes with their peers which helps in better collaboration . Git also helps us in tracking code changes ans who made changes to the file.
+
+2.What do you understand by version control system ?
+
+Ans :It is a system that records changes to a file or set of files over time ,so that we can recall specific versions later 
+
+3.What is Github ?
+
+Ans : Git hub is a Git Server .It is a repository which is used to store /maintain the source code of the projects
+
+4.Mention some popular git hosting services
+Ans :github,bitbucket,gitlab
+
+5.Different types of version control system 
+
+Ans :LVCS -Local version control system 
+     CVCS -Centralized version control system
+     DVCS -Distributed version control system 
+
+6.What benefits come with using GIT ?
+Ans :If the Git server dies,then the local system will maintain a copy of the main repository which has full backup of the data i.e the local repo is as good as the main repo .
+we can easily track the changes in code in different versions using git
+
+7.What is a git repository ?
+
+Ans:A GIT repository allows performing various operations on it to create different versions of a project. These operations include the addition of files, creating new repositories, committing an action, deleting a repository, etc. These modifications will result in the creation of different versions of a project.
+
+8.how can we initialize a repo in Git 
+
+Ans :using git init command
+
+
